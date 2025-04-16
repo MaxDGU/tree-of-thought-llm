@@ -31,7 +31,7 @@ try:
 
     # --- Main Script Logic --- 
     # Set Hugging Face token 
-    hf_token = "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"
+    hf_token = "YOUR_TOKEN_HERE"
     os.environ["HF_TOKEN"] = hf_token
     print(f"{time.time():.2f} - HF Token set.")
 
