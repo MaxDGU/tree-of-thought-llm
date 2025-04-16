@@ -6,8 +6,7 @@ import os
 from nnsight import CONFIG
 
 # Configure nnsight with your API key
-# Replace "YOUR_API_KEY" with the actual key
-CONFIG.set_default_api_key("66f3698257fb499b97bff0e5c79532e8")
+CONFIG.set_default_api_key("YOUR_TOKEN_HERE")
 print("NNsight API key configured.")
 
 # Configuration
