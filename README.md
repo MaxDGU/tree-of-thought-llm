@@ -1,3 +1,8 @@
+
+to run llama 3.2 1B: llama_game24.py
+to run llama 3.2 instruct 3B: llama_instruct_game24.py
+to run patching between IO/TOT: patching_game24.py 
+
 # Official Repo of Tree of Thoughts (ToT)
 
 <p>
