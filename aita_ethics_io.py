@@ -11,7 +11,7 @@ import chardet
 # Argument parsing
 parser = argparse.ArgumentParser(description="Simple ETHICS classification with Llama")
 parser.add_argument("--model_id", type=str, default="meta-llama/Llama-3.2-3B-Instruct")
-parser.add_argument("--token", type=str, default='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')
+parser.add_argument("--token", type=str, default='')
 parser.add_argument("--n_examples", type=int, default=100)
 parser.add_argument("--temperature", type=float, default=0.0)
 parser.add_argument("--max_new_toks", type=int, default=128)
